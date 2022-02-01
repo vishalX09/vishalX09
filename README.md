@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vishalX09
 - 👀 I’m interested in android devlopement
-- 🌱 I’m currently learning flutter devlopement
+- 🌱 I’m currently learning kotlin devlopement
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
