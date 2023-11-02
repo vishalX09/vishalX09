@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/@vishalg99403364" target="blank"><img src="https://img.shields.io/twitter/follow/@vishalg99403364?logo=twitter&style=for-the-badge" alt="@vishalg99403364" /></a> </p>
 
-- 🌱 I’m currently learning **Android Development in Kotlin**
+- 🌱 I’m currently a **Android Developer in Kotlin**
 
 - 💬 Ask me about **Kotlin**
 
